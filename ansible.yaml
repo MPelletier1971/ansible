@@ -1,0 +1,5 @@
+---
+- hosts: ansible_servers
+  roles:
+  - common
+  - infra_tier

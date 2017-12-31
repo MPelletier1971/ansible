@@ -1,0 +1,8 @@
+[ansible_servers]
+tachyon
+
+[client_tier]
+127.0.0.1
+
+[infra_tier]
+127.0.0.1

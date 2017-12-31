@@ -1,0 +1,4 @@
+---
+# file: site.yaml
+
+- import_playbook: ansible.yaml
